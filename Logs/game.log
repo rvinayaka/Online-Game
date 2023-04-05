@@ -376,3 +376,9 @@ WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the conn
 WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
 WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
 WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 12:40:29,864:app:Starting the db connection to display all characters in the list
+INFO:2023-04-05 12:40:30,100:app:Displayed list of all Characters in the list
+INFO:2023-04-05 12:40:30,100:app:Displayed list of all Characters in the list
+WARNING:2023-04-05 12:40:30,101:app:Hence account created, closing the connection
+WARNING:2023-04-05 12:40:30,101:app:Hence account created, closing the connection
+WARNING:2023-04-05 12:40:30,101:app:Hence account created, closing the connection
