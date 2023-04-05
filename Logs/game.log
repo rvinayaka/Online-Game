@@ -1,0 +1,378 @@
+WARNING:2023-04-05 10:11:21,358:app:Starting the db connection to display character's details 
+INFO:2023-04-05 10:11:21,488:app:Displayed Character's details
+INFO:2023-04-05 10:11:21,488:app:Displayed Character's details
+WARNING:2023-04-05 10:11:21,489:app:Hence displayed details, closing the connection
+WARNING:2023-04-05 10:11:21,489:app:Hence displayed details, closing the connection
+WARNING:2023-04-05 10:11:21,489:app:Hence displayed details, closing the connection
+WARNING:2023-04-05 10:12:16,726:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:16,726:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:16,726:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:16,726:app:Starting the db connection to add clan
+INFO:2023-04-05 10:12:16,913:app:Character's clan details added: {'clan': 'Leaf Village'}
+INFO:2023-04-05 10:12:16,913:app:Character's clan details added: {'clan': 'Leaf Village'}
+INFO:2023-04-05 10:12:16,913:app:Character's clan details added: {'clan': 'Leaf Village'}
+INFO:2023-04-05 10:12:16,913:app:Character's clan details added: {'clan': 'Leaf Village'}
+INFO:2023-04-05 10:12:16,913:app:Character's clan details added: {'clan': 'Leaf Village'}
+WARNING:2023-04-05 10:12:16,913:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:16,913:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:16,913:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:16,913:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:16,913:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:16,913:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:35,626:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:35,626:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:35,626:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:35,626:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:35,626:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:35,626:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:35,626:app:Starting the db connection to add clan
+INFO:2023-04-05 10:12:35,810:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:35,810:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:35,810:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:35,810:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:35,810:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:35,810:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:35,810:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:35,810:app:Character's clan details added: {'clan': 'Sand Village'}
+WARNING:2023-04-05 10:12:35,810:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:35,810:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:35,810:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:35,810:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:35,810:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:35,810:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:35,810:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:35,810:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:35,810:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:43,258:app:Starting the db connection to add clan
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:12:43,793:app:Character's clan details added: {'clan': 'Water Village'}
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:43,794:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:50,655:app:Starting the db connection to add clan
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:12:50,834:app:Character's clan details added: {'clan': 'Forger'}
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:50,835:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:12:59,167:app:Starting the db connection to add clan
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+INFO:2023-04-05 10:12:59,344:app:Character's clan details added: {'clan': 'Sand Village'}
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:12:59,345:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:06,087:app:Starting the db connection to add clan
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+INFO:2023-04-05 10:13:06,298:app:Character's clan details added: {'clan': 'Water Village'}
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:06,299:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+WARNING:2023-04-05 10:13:13,649:app:Starting the db connection to add clan
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+INFO:2023-04-05 10:13:13,841:app:Character's clan details added: {'clan': 'Forger'}
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:13,842:app:Hence Character clan details added, closing the connection
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+WARNING:2023-04-05 10:13:41,002:app:Starting the db connection to display characters if they belong to this clan 
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+INFO:2023-04-05 10:13:41,124:app:Displayed Characters belonging to Forger clan
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
+WARNING:2023-04-05 10:13:41,125:app:Hence displayed characters, closing the connection
