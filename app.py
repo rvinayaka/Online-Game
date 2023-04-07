@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from conn import connection
-from settings import logger
+from settings import logger, handle_exceptions
 import psycopg2
 
 app = Flask(__name__)
@@ -21,29 +21,6 @@ app = Flask(__name__)
 #    4 | Anya      | think, attack     | hypnosis, magnetize | Forger
 
 
-def handle_exceptions(func):
-    def wrapper(*args, **kwargs):
-        try:
-            return func(*args, **kwargs)
-        except psycopg2.Error as error:
-            conn = kwargs.get('conn')
-            if conn:
-                conn.rollback()
-            logger(__name__).error(f"Error occurred: {error}")
-            return jsonify({"message": f"Error occurred: {error}"})
-        except Exception as error:
-            logger(__name__).error(f"Error occurred: {error}")
-            return jsonify({"message": f"Error occurred: {error}"})
-        finally:
-            conn = kwargs.get("conn")
-            cur = kwargs.get("cur")
-            # close the database connection
-            if conn:
-                conn.close()
-            if cur:
-                cur.close()
-            logger(__name__).warning("Hence account created, closing the connection")
-    return wrapper
 
 
 @app.route("/characters", methods=["GET", "POST"])
