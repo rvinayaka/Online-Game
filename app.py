@@ -13,12 +13,13 @@ app = Flask(__name__)
 # mechanics VARCHAR(300), interactions VARCHAR(500));
 
 # Game
-#  sno | character |     mechanics     |    interactions     |     clan
-# -----+-----------+-------------------+---------------------+---------------
-#    1 | Naruto    | walk, jump, crawl | synergy, chat       | Leaf Village
-#    2 | Hinata    | battle, run       | Call,               | Sand Village
-#    3 | Akamaru   | smell, bark       | sign language,      | Water Village
-#    4 | Anya      | think, attack     | hypnosis, magnetize | Forger
+#  sno | character |     mechanics     |    interactions     |     clan      | credits
+# -----+-----------+-------------------+---------------------+---------------+---------
+#    1 | Naruto    | walk, jump, crawl | synergy, chat       | Leaf Village  |     200
+#    2 | Hinata    | battle, run       | Call,               | Sand Village  |     260
+#    3 | Akamaru   | smell, bark       | sign language,      | Water Village |     120
+#    4 | Anya      | think, attack     | hypnosis, magnetize | Forger        |     300
+
 
 
 
@@ -140,9 +141,9 @@ def update_character(sno):
 
 
 
-@app.route("/delete/<int:sno>", methods=["DELETE"], endpoint='delete_student')      # DELETE an item from cart
+@app.route("/delete/<int:sno>", methods=["DELETE"], endpoint='delete_student')      # DELETE character
 @handle_exceptions
-def delete_student(sno):
+def delete_character(sno):
     # start the database connection
     cur, conn = connection()
     logger(__name__).warning("Starting the db connection to delete character from the list")
@@ -153,6 +154,52 @@ def delete_student(sno):
     # Log the details into logger file
     logger(__name__).info(f"Character with no. {sno} deleted from the table")
     return jsonify({"message": "Deleted Successfully", "char no": sno}), 200
+
+
+@app.route("/characters/credits/<int:sno>", methods=["PUT"], endpoint='adding_credits')
+@handle_exceptions
+def adding_credits(sno):
+    cur, conn = connection()
+    logger(__name__).warning("Starting the db connection to add credits")
+
+    cur.execute("SELECT character from game where sno = %s", (sno,))
+    get_character = cur.fetchone()
+
+    if not get_character:
+        return jsonify({"message": "Character not found"}), 200
+
+    data = request.get_json()
+    credit = data.get("credits")
+
+    cur.execute("UPDATE game SET credits = %s WHERE sno = %s", (credit, sno))
+    conn.commit()
+
+    # Log the details into logger file
+    logger(__name__).info(f"{get_character[0]} got {credit} credits")
+    return jsonify({"message": f"{get_character[0]} got {credit} credits",
+                    "Details": data}), 200
+
+
+@app.route("/characters/search/<string:character>", methods=["GET"], endpoint='search_character')
+@handle_exceptions
+def search_character(character):
+    cur, conn = connection()
+    logger(__name__).warning("Starting the db connection to search stocks")
+
+    show_query = "SELECT character FROM game WHERE character = %s;"
+    cur.execute(show_query, (character,))
+    get_character = cur.fetchone()
+    print(get_character)
+
+    if not get_character:
+        # Log the details into logger file
+        logger(__name__).info(f"{get_character[0]} not found in the table")
+        return jsonify({"message": f"{get_character[0]} not found in the table"}), 200
+
+    # Log the details into logger file
+    logger(__name__).info(f"{get_character[0]} found in the table")
+    return jsonify({"message": f"{get_character[0]} found in the table"}), 200
+
 
 
 if __name__ == "__main__":

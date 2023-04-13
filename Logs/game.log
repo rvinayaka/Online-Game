@@ -382,3 +382,143 @@ INFO:2023-04-05 12:40:30,100:app:Displayed list of all Characters in the list
 WARNING:2023-04-05 12:40:30,101:app:Hence account created, closing the connection
 WARNING:2023-04-05 12:40:30,101:app:Hence account created, closing the connection
 WARNING:2023-04-05 12:40:30,101:app:Hence account created, closing the connection
+WARNING:2023-04-13 17:12:18,538:app:Starting the db connection to add credits
+INFO:2023-04-13 17:12:18,707:app:('Naruto',) got None credits
+INFO:2023-04-13 17:12:18,707:app:('Naruto',) got None credits
+WARNING:2023-04-13 17:12:18,708:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:12:34,384:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:12:34,384:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:12:34,384:app:Starting the db connection to add credits
+INFO:2023-04-13 17:12:35,096:app:('Naruto',) got None credits
+INFO:2023-04-13 17:12:35,096:app:('Naruto',) got None credits
+INFO:2023-04-13 17:12:35,096:app:('Naruto',) got None credits
+INFO:2023-04-13 17:12:35,096:app:('Naruto',) got None credits
+WARNING:2023-04-13 17:12:35,097:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:12:35,097:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:15,246:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:15,246:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:15,246:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:15,246:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:15,246:app:Starting the db connection to add credits
+INFO:2023-04-13 17:16:15,430:app:('Naruto',) got 200 credits
+INFO:2023-04-13 17:16:15,430:app:('Naruto',) got 200 credits
+INFO:2023-04-13 17:16:15,430:app:('Naruto',) got 200 credits
+INFO:2023-04-13 17:16:15,430:app:('Naruto',) got 200 credits
+INFO:2023-04-13 17:16:15,430:app:('Naruto',) got 200 credits
+INFO:2023-04-13 17:16:15,430:app:('Naruto',) got 200 credits
+WARNING:2023-04-13 17:16:15,431:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:15,431:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:15,431:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:24,193:app:Starting the db connection to add credits
+INFO:2023-04-13 17:16:24,376:app:Naruto got 200 credits
+INFO:2023-04-13 17:16:24,376:app:Naruto got 200 credits
+WARNING:2023-04-13 17:16:24,377:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:39,993:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:39,993:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:39,993:app:Starting the db connection to add credits
+INFO:2023-04-13 17:16:40,158:app:Hinata got 260 credits
+INFO:2023-04-13 17:16:40,158:app:Hinata got 260 credits
+INFO:2023-04-13 17:16:40,158:app:Hinata got 260 credits
+INFO:2023-04-13 17:16:40,158:app:Hinata got 260 credits
+WARNING:2023-04-13 17:16:40,159:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:40,159:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:46,725:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:46,725:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:46,725:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:46,725:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:46,725:app:Starting the db connection to add credits
+INFO:2023-04-13 17:16:46,893:app:Akamaru got 120 credits
+INFO:2023-04-13 17:16:46,893:app:Akamaru got 120 credits
+INFO:2023-04-13 17:16:46,893:app:Akamaru got 120 credits
+INFO:2023-04-13 17:16:46,893:app:Akamaru got 120 credits
+INFO:2023-04-13 17:16:46,893:app:Akamaru got 120 credits
+INFO:2023-04-13 17:16:46,893:app:Akamaru got 120 credits
+WARNING:2023-04-13 17:16:46,893:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:46,893:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:46,893:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:53,606:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:53,606:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:53,606:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:53,606:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:53,606:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:53,606:app:Starting the db connection to add credits
+WARNING:2023-04-13 17:16:53,606:app:Starting the db connection to add credits
+INFO:2023-04-13 17:16:54,216:app:Anya got 300 credits
+INFO:2023-04-13 17:16:54,216:app:Anya got 300 credits
+INFO:2023-04-13 17:16:54,216:app:Anya got 300 credits
+INFO:2023-04-13 17:16:54,216:app:Anya got 300 credits
+INFO:2023-04-13 17:16:54,216:app:Anya got 300 credits
+INFO:2023-04-13 17:16:54,216:app:Anya got 300 credits
+INFO:2023-04-13 17:16:54,216:app:Anya got 300 credits
+INFO:2023-04-13 17:16:54,216:app:Anya got 300 credits
+WARNING:2023-04-13 17:16:54,217:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:54,217:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:54,217:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:16:54,217:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:20:40,361:app:Starting the db connection to search stocks
+WARNING:2023-04-13 17:20:40,603:settings:Hence account created, closing the connection
+ERROR:2023-04-13 17:20:40,603:app:Exception on /characters/search/Anya [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Game/settings.py", line 31, in wrapper
+    return func(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Game/app.py", line 190, in search_character
+    cur.execute(show_query, (character,))
+psycopg2.errors.UndefinedColumn: column "character" does not exist
+LINE 1: SELECT character FROM watchlist WHERE character = 'Anya';
+               ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Game/settings.py", line 32, in wrapper
+    except psycopg2.Error as error:
+NameError: name 'psycopg2' is not defined
+WARNING:2023-04-13 17:21:24,101:app:Starting the db connection to search stocks
+INFO:2023-04-13 17:21:24,226:app:Anya found in the table
+INFO:2023-04-13 17:21:24,226:app:Anya found in the table
+WARNING:2023-04-13 17:21:24,227:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:21:59,301:app:Starting the db connection to search stocks
+WARNING:2023-04-13 17:21:59,301:app:Starting the db connection to search stocks
+WARNING:2023-04-13 17:21:59,301:app:Starting the db connection to search stocks
+INFO:2023-04-13 17:21:59,423:app:Anya found in the table
+INFO:2023-04-13 17:21:59,423:app:Anya found in the table
+INFO:2023-04-13 17:21:59,423:app:Anya found in the table
+INFO:2023-04-13 17:21:59,423:app:Anya found in the table
+WARNING:2023-04-13 17:21:59,423:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:21:59,423:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:22:41,794:app:Starting the db connection to search stocks
+INFO:2023-04-13 17:22:41,916:app:Anya found in the table
+INFO:2023-04-13 17:22:41,916:app:Anya found in the table
+WARNING:2023-04-13 17:22:41,917:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:22:50,845:app:Starting the db connection to search stocks
+WARNING:2023-04-13 17:22:50,845:app:Starting the db connection to search stocks
+WARNING:2023-04-13 17:22:50,845:app:Starting the db connection to search stocks
+INFO:2023-04-13 17:22:50,971:app:Naruto found in the table
+INFO:2023-04-13 17:22:50,971:app:Naruto found in the table
+INFO:2023-04-13 17:22:50,971:app:Naruto found in the table
+INFO:2023-04-13 17:22:50,971:app:Naruto found in the table
+WARNING:2023-04-13 17:22:50,972:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:22:50,972:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:22:57,009:app:Starting the db connection to search stocks
+WARNING:2023-04-13 17:22:57,009:app:Starting the db connection to search stocks
+WARNING:2023-04-13 17:22:57,009:app:Starting the db connection to search stocks
+WARNING:2023-04-13 17:22:57,009:app:Starting the db connection to search stocks
+WARNING:2023-04-13 17:22:57,009:app:Starting the db connection to search stocks
+INFO:2023-04-13 17:22:57,127:app:Hinata found in the table
+INFO:2023-04-13 17:22:57,127:app:Hinata found in the table
+INFO:2023-04-13 17:22:57,127:app:Hinata found in the table
+INFO:2023-04-13 17:22:57,127:app:Hinata found in the table
+INFO:2023-04-13 17:22:57,127:app:Hinata found in the table
+INFO:2023-04-13 17:22:57,127:app:Hinata found in the table
+WARNING:2023-04-13 17:22:57,128:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:22:57,128:settings:Hence account created, closing the connection
+WARNING:2023-04-13 17:22:57,128:settings:Hence account created, closing the connection
