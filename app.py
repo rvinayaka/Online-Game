@@ -13,12 +13,12 @@ app = Flask(__name__)
 # mechanics VARCHAR(300), interactions VARCHAR(500));
 
 # Game
-#  sno | character |     mechanics     |    interactions     |     clan      | credits
-# -----+-----------+-------------------+---------------------+---------------+---------
-#    1 | Naruto    | walk, jump, crawl | synergy, chat       | Leaf Village  |     200
-#    2 | Hinata    | battle, run       | Call,               | Sand Village  |     260
-#    3 | Akamaru   | smell, bark       | sign language,      | Water Village |     120
-#    4 | Anya      | think, attack     | hypnosis, magnetize | Forger        |     300
+#  sno | character |     mechanics     |    interactions     |     clan      | credits |               achievements
+# -----+-----------+-------------------+---------------------+---------------+---------+------------------------------------------
+#    1 | Naruto    | walk, jump, crawl | synergy, chat       | Leaf Village  |     200 | Kumaro, 6 Acient technique
+#    2 | Hinata    | battle, run       | Call,               | Sand Village  |     260 | Naruto's love, Byakungan
+#    3 | Akamaru   | smell, bark       | sign language,      | Water Village |     120 | Shikamaru, Multi-attacks
+#    4 | Anya      | think, attack     | hypnosis, magnetize | Forger        |     300 | Psychic, Detective Dad, Secret-Agent Mom
 
 
 
@@ -199,6 +199,30 @@ def search_character(character):
     # Log the details into logger file
     logger(__name__).info(f"{get_character[0]} found in the table")
     return jsonify({"message": f"{get_character[0]} found in the table"}), 200
+
+
+@app.route("/characters/achievements/<int:sno>", methods=["PUT"], endpoint='adding_achievements')
+@handle_exceptions
+def adding_achievements(sno):
+    cur, conn = connection()
+    logger(__name__).warning("Starting the db connection to add achievements")
+
+    cur.execute("SELECT character from game where sno = %s", (sno,))
+    get_character = cur.fetchone()
+
+    if not get_character:
+        return jsonify({"message": "Character not found"}), 200
+
+    data = request.get_json()
+    achievements = data.get('achievements')
+
+    cur.execute("UPDATE game SET achievements = %s WHERE sno = %s", (achievements, sno))
+    conn.commit()
+
+    # Log the details into logger file
+    logger(__name__).info(f"{get_character[0]} got achievements of {achievements}")
+    return jsonify({"message": f"{get_character[0]} got achievements of {achievements}",
+                    "Details": data}), 200
 
 
 
